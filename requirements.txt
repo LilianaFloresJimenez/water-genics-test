@@ -1,0 +1,7 @@
+coverage>=7.9.2
+mlflow>=3.1.1
+numpy>=2.2.6
+pandas>=2.3.1
+pytest>=8.4.1
+pytest-cov>=6.2.1
+scikit-learn>=1.7.1
